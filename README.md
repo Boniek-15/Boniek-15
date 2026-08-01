@@ -17,7 +17,7 @@ Outside programming, I'm a goalkeeper at Jaguar Gdańsk Academy.
 🛠 Tools:  ![Git](https://img.shields.io/badge/git-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 # 🚀 Featured Projects
-[Projekty]
+Projects coming soon...
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
